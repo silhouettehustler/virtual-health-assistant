@@ -1,0 +1,6 @@
+@VirtualHealthAssistant.Server_HostAddress = http://localhost:5074
+
+GET {{VirtualHealthAssistant.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualHealthAssistant.Server", "VirtualHealthAssistant.Server\VirtualHealthAssistant.Server.csproj", "{B50072E3-6650-432D-B63B-33B63D4D1DDE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "virtualhealthassistant.client", "virtualhealthassistant.client\virtualhealthassistant.client.esproj", "{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50072E3-6650-432D-B63B-33B63D4D1DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50072E3-6650-432D-B63B-33B63D4D1DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50072E3-6650-432D-B63B-33B63D4D1DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50072E3-6650-432D-B63B-33B63D4D1DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEA1263-89D1-4068-AE62-237D6F6C2F4F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0964E66-573D-4F50-96F5-B45A5A61409C}
+	EndGlobalSection
+EndGlobal
